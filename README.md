@@ -40,5 +40,6 @@ Thanks to Google for gemini (i used some ai in this project)
 
 ## License
 
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details. 
+This project is licensed under the **GPL-3.0 License**. See the `LICENSE` file for more details.
 Feel free to use, modify, and distribute it, but please maintain the original copyright attribution.
+
