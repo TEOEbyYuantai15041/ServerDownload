@@ -32,6 +32,11 @@ A highly advanced, fully automated, and highly optimized Minecraft Fabric client
 
 This mod simulates genuine player movements (walking speed, realistic jumping, actual interaction rays) instead of teleporting, making it highly resilient against standard Vanilla and basic anti-cheat (NCP) movement checks.
 
+## Special Thanks
+
+Thanks to mircokroon build the original version of world downloader i used some code of his project
+the original link: https://github.com/mircokroon/minecraft-world-downloader
+
 ## License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details. 
