@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.teoe.wdl.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "client-wdl-fabric-refmap.json",
+  "client": [
+    "ChunkDataMixin",
+    "InteractionMixin",
+    "NetworkHandlerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

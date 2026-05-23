@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "com/teoe/wdl/mixin/ChunkDataMixin": {
+      "loadChunkFromPacket": "Lnet/minecraft/class_631;method_16020(IILnet/minecraft/class_2540;Ljava/util/Map;Ljava/util/function/Consumer;)Lnet/minecraft/class_2818;"
+    },
+    "com/teoe/wdl/mixin/InteractionMixin": {
+      "interactBlock": "Lnet/minecraft/class_636;method_2896(Lnet/minecraft/class_746;Lnet/minecraft/class_1268;Lnet/minecraft/class_3965;)Lnet/minecraft/class_1269;"
+    },
+    "com/teoe/wdl/mixin/NetworkHandlerMixin": {
+      "onInventory": "Lnet/minecraft/class_634;method_11153(Lnet/minecraft/class_2649;)V",
+      "onOpenScreen": "Lnet/minecraft/class_634;method_17587(Lnet/minecraft/class_3944;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/teoe/wdl/mixin/ChunkDataMixin": {
+        "loadChunkFromPacket": "Lnet/minecraft/class_631;method_16020(IILnet/minecraft/class_2540;Ljava/util/Map;Ljava/util/function/Consumer;)Lnet/minecraft/class_2818;"
+      },
+      "com/teoe/wdl/mixin/InteractionMixin": {
+        "interactBlock": "Lnet/minecraft/class_636;method_2896(Lnet/minecraft/class_746;Lnet/minecraft/class_1268;Lnet/minecraft/class_3965;)Lnet/minecraft/class_1269;"
+      },
+      "com/teoe/wdl/mixin/NetworkHandlerMixin": {
+        "onInventory": "Lnet/minecraft/class_634;method_11153(Lnet/minecraft/class_2649;)V",
+        "onOpenScreen": "Lnet/minecraft/class_634;method_17587(Lnet/minecraft/class_3944;)V"
+      }
+    }
+  }
+}

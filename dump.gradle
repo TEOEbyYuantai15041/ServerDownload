@@ -1,0 +1,5 @@
+task checkPlayerNbt {
+    doLast {
+        println "Skipping compile..."
+    }
+}

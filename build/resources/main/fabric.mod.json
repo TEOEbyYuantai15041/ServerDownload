@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "teoewdl",
+  "version": "1.0.0",
+  "name": "Teoe World Downloader",
+  "description": "Fabric 1.20 World Downloader",
+  "authors": [
+    "Teoe"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/teoewdl/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.teoe.wdl.TeoeWDL"
+    ]
+  },
+  "mixins": [
+    "wdl.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "~1.21.8",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
