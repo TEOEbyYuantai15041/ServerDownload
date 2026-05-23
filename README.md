@@ -36,6 +36,7 @@ This mod simulates genuine player movements (walking speed, realistic jumping, a
 
 Thanks to mircokroon build the original version of world downloader i used some code of his project.
 the original link: https://github.com/mircokroon/minecraft-world-downloader
+Thanks to Google for gemini (i used some ai in this project)
 
 ## License
 
